@@ -39,7 +39,7 @@ This project includes:
 
 ## 🛠️ Requirements
 
-Make sure you have Python 3.8+ and install the following libraries:
+Make sure you install the following libraries:
 
 ```bash
 pip install pandas matplotlib openpyxl xlsxwriter

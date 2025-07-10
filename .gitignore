@@ -1,6 +1,2 @@
+*.csv
 College_Scorecard_Raw_Data_05192025/
-Full_ROI_Dataset.csv
-anaconda_projects/
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store

@@ -1,21 +1,9 @@
-# Ignore virtual environments and credentials
-.env
-*.env
+# Ignore everything
+*
 
-# Python
-__pycache__/
-*.py[cod]
-*.so
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# System files
-.DS_Store
-
-# IDE
-.vscode/
-.idea/
-
-# Logs
-*.log
+# Except these:
+!*.ipynb
+!*.csv
+!*.xlsx
+!*.pdf
+!README.md
